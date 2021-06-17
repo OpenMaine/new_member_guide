@@ -9,7 +9,7 @@ You can find all our projects on Github https://github.com/OpenMaine
 
 You can get inspired by some Code for America projects https://codeforamerica.github.io/
 
-How to join our slack group: https://openmaine.slack.com/join/shared_invite/enQtNDA3ODQ4MTE5MjMyLWVkODljOTU0MWI3MzI4YjI3MmU2MjkzMGE0MTI3NDEzZTYwZjQzMzg5ZWViYjdkODEzOTdjZjE0NWJkNGE4ZDA
+How to join our slack group: https://join.slack.com/t/openmaine/shared_invite/zt-57d28mv4-j~WPnaNxVq43GDX~3Te4Hg
 
 
 
